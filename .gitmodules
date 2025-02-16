@@ -10,3 +10,6 @@
 [submodule "jni/src/hlsdk-portable"]
 	path = jni/src/hlsdk-portable
 	url = https://github.com/FWGS/hlsdk-portable
+[submodule "jni/src/Xash3D/jni/src/Xash3D/bash3d-framework-engine"]
+	path = jni/src/Xash3D/jni/src/Xash3D/bash3d-framework-engine
+	url = https://github.com/ramazanyx/bash3d-framework-engine.git
